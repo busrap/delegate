@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.exe.config
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\bin\Debug\Delegate_10.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.Form1.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.Properties.Resources.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Delegate_10\Delegate_10\obj\Debug\Delegate_10.pdb
